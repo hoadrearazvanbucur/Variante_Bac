@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1652547140 source:d:\1_programare\c++\variante\culegereteze\teza1_s3_3\main.cpp
+	<iostream>
+	<fstream>
+	<limits>
+	"functii.h"
+
+1652550949 d:\1_programare\c++\variante\culegereteze\teza1_s3_3\functii.h
+	<iostream>
+	<fstream>
+	<limits>
+
